@@ -41,7 +41,7 @@ button:active {
   transform: translateY(1px);
 }
 
-@media (max-width: 480px) {
+@media (max-width: 600px) {
   #quote , h2 , button {
     font-size: 2rem;
   }
